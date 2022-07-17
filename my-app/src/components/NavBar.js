@@ -13,9 +13,9 @@ function NavBar() {
                 <li>PRODUCTOS</li>
                 <li>CONTACTO</li>
                 </ul>
-            <div className='container card'>
+            <div className='container'>
                 <img src='https://http2.mlstatic.com/D_NQ_NP_783184-MLA47545708641_092021-O.webp' className='imagen-logo' alt=''></img>
-                <div className='card-body'>
+                <div>
                     <h5>AURICULARES GAMER</h5>
                 <a href='#' className='btn btn-success'>COMPRAR</a>
                 </div>
