@@ -18,3 +18,36 @@ body {
   text-align: center;
 }
 
+.descuento-nav {
+  max-width: 940px;
+  font-size: 13px;
+  font-weight: 600;
+  background-color: rgb(71, 115, 156);
+  color: antiquewhite;
+}
+
+.contenedor-solapa {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgb(77, 77, 77);
+  font-weight: 700;
+}
+
+.imagen-navbar {
+  width: 10rem;
+}
+
+li {
+  text-decoration: none;
+  color: white;
+}
+
+li:hover {
+  color: rgb(71, 115, 156);
+}
+
+.imagen-logo {
+  width: 11rem;
+}
