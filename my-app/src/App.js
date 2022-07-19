@@ -23,8 +23,8 @@ function App() {
                 </ul>
               </div>
         </div>
-          <NavBar/>
       </div>
+      <NavBar/>
     </div>
   );
 }

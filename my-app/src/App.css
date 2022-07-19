@@ -9,17 +9,8 @@ body {
   background-color: #f5f6f7;
 }
 
-.App {
-  min-width: 100vh;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
 .descuento-nav {
-  max-width: 940px;
+  text-align: center;
   font-size: 13px;
   font-weight: 600;
   background-color: rgb(71, 115, 156);
@@ -32,11 +23,11 @@ body {
   align-items: center;
   justify-content: space-evenly;
   background-color: rgb(77, 77, 77);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .imagen-navbar {
-  width: 10rem;
+  width: 6rem;
 }
 
 li {
@@ -48,6 +39,3 @@ li:hover {
   color: rgb(71, 115, 156);
 }
 
-.imagen-logo {
-  width: 11rem;
-}

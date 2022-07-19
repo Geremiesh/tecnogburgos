@@ -1,0 +1,42 @@
+.contenedor-header {
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px rgb(71, 115, 156);
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.imagen-header {
+    width: 200px;
+}
+
+.contenedor-texto-header {
+    background-color: rgb(211, 222, 233);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top: 1px solid;
+    padding: 10px;
+    -webkit-border-radius: ;
+    -moz-border-radius: ;
+    -ms-border-radius: ;
+    -o-border-radius: ;
+}
+
+.producto-header {
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.descripcion-header {
+    font-weight: 600;
+}
+
+.boton-comprar {
+    background-color: rgb(147, 196, 147);
+    margin: 5px;
+    padding: 5px;
+}
